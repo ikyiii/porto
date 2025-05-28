@@ -63,6 +63,15 @@ const INFO = {
 		},
 
 		{
+			title: "Lamun Classifier",
+			description:
+				"Seagrass species identification using image-based feature extraction and SVM classification.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/ikyiii/lamun-detection-svm",
+		},
+
+		{
 			title: "D'Supa",
 			description:
 				"This project is a web platform for UMKM, designed to showcase products and connect businesses with customers efficiently.",
