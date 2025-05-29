@@ -36,15 +36,6 @@ const INFO = {
 		},
 
 		{
-			title: "Senggarang Selatan",
-			description:
-				"This project is a portfolio website for a community, highlighting its members, activities, and memories.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://ikyiii.github.io/Sengsel/",
-		},
-
-		{
 			title: "Rootify",
 			description:
 				"This project calculates square roots using JavaScript with an interactive interface for quick, accurate results..",
@@ -68,7 +59,16 @@ const INFO = {
 				"Seagrass species identification using image-based feature extraction and SVM classification.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com/ikyiii/lamun-detection-svm",
+			link: "https://lamun-classifier.streamlit.app/",
+		},
+
+		{
+			title: "Senggarang Selatan",
+			description:
+				"This project is a portfolio website for a community, highlighting its members, activities, and memories.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			linkText: "View Project",
+			link: "https://ikyiii.github.io/Sengsel/",
 		},
 
 		{
